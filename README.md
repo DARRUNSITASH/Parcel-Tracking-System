@@ -25,17 +25,17 @@ The **Add Parcel** tab allows users to input parcel details such as:
 
 After filling out the fields, users can click the **Add Parcel** button to save the new parcel in the internal parcel database.
 
-![Add Parcel Tab](images/add-parcel-tab.png)
+![Add Parcel Tab](images/1.png)
 
 ### 2. Update Parcel
 The **Update Parcel** tab allows users to update the location and status of an existing parcel using its Parcel ID. If the Parcel ID exists in the database, the details are updated. Otherwise, an error message will be shown.
 
-![Update Parcel Tab](images/update-parcel-tab.png)
+![Update Parcel Tab](images/2.png)
 
 ### 3. View Parcel
 The **View Parcel** tab allows users to enter a Parcel ID and view its details (ID, sender, receiver, location, and status). If the Parcel ID exists, the details are displayed; if not, a "Parcel not found" message is shown.
 
-![View Parcel Tab](images/view-parcel-tab.png)
+![View Parcel Tab](images/3.png)
 
 ---
 
